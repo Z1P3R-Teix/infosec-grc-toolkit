@@ -47,7 +47,7 @@ cd grc-toolkit
 
 2. **Execute o Script**
 ``` python main.py ```
-
+---
 ## Exemplo de Relatório Gerado
   ### Avaliação de Maturidade (ISO 27001)
   - Média geral: 3.00 / 5
