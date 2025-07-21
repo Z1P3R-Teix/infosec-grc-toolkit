@@ -7,7 +7,6 @@ Uma ferramenta simples de linha de comando para realizar:
 - Sugestões automáticas de controles mitigadores
 - Geração de relatório em **Markdown (.md)**
 
->  Ideal para profissionais de Segurança da Informação, GRC ou entusiastas que desejam avaliar rapidamente sua postura de segurança.
 
 ---
 
