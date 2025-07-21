@@ -29,7 +29,13 @@ Uma ferramenta simples de linha de comando para realizar:
 - Baseado em frameworks **ISO 27001** e **NIST CSF** (não oficial)
 
 ---
+## Futuras Melhorias
+  - Suporte ao NIST CSF como alternativa à ISO 27001
+  - Exportação para PDF
+  - Interface Web simples (Flask?)
+  - Armazenamento de múltiplas avaliações
 
+---
 ## Como usar
 
 1. **Clone o repositório**
