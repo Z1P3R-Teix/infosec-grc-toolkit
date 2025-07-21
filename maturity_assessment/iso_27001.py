@@ -21,7 +21,7 @@ def run_assessment():
                 respostas.append((pergunta, resposta)) 
                 break
             except ValueError:
-                print("⚠️  Entrada inválida. Por favor, insira um número de 1 a 5.")
+                print("Entrada inválida. Por favor, insira um número de 1 a 5.")
 
     media = sum([nota for _, nota in respostas]) / len(respostas)
     print(f"\nMédia de Maturidade: {media:.2f}")
