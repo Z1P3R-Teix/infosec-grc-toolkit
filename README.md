@@ -21,7 +21,7 @@ Uma ferramenta simples de linha de comando para realizar:
 
 ---
 
-## 🛠 Tecnologias Usadas
+## Tecnologias Usadas
 
 - Python **3.8+**
 - Estrutura modular (`maturity_assessment`, `risk_assessment`, `reports`)
